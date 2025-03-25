@@ -1,8 +1,8 @@
-Cython==0.29.33
-dl==0.1.0
-docutils==0.19
-keyring==23.5.0
-numpy==1.24.2
-ordereddict==1.1
-spotipy==2.22.1
-streamlit==1.19.0
+Cython
+dl
+docutils
+keyring
+numpy
+ordereddict
+spotipy
+streamlit
